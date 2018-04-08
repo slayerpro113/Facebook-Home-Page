@@ -1,0 +1,73 @@
+*{
+    font-family: Arial;
+}
+header {
+    background-color: #3E5C9A;
+    height: 100px;
+}
+header h1{
+    color: white;
+    float: left;
+    margin-left: 6em;
+    margin-top: 0.7em;
+    clear: both;
+}
+header form{
+    width: 40%;
+    float: right;
+    margin-left: 5em;
+    margin-top: 0.5em;
+}
+header label{
+    color: white;
+    margin-bottom: 0.5em;
+    text-align: left;
+    font-size: 11pt;
+    margin-right: 6em;
+}
+header #link{
+   margin-left: 11.5em;
+}
+
+
+main{
+    background-color: #F2F4F8;
+}
+main .left{
+    font-size: 14pt;
+    width:100%;
+    margin-top: 2em;
+    margin-bottom: 1em;
+}
+
+main .right{
+    margin-top: 2em;
+    margin-bottom:1em;
+    width: 100%;
+}
+main .form-inline{
+    width: 50%;
+    margin-bottom: 0.5em;
+}
+#ten{
+   
+    width: 120%;
+}
+#ho{
+    width:120%;
+}
+
+main .form{
+    width: 50%;
+    margin-bottom: 0.5em;
+}
+main input[type="email"]{
+    margin-bottom: 0.5em;
+}
+main #choose{
+  margin-bottom: 0.5em;  
+}
+main button{
+    margin-bottom: 0.5em; 
+        
+}
